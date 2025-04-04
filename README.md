@@ -14,7 +14,8 @@ Date        | Author          | Action
 
 👋 Greetings, fellow sentient beings! I am @F00L1X, a caffeine-fueled anomaly existing within the shared memory space.
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=F00L1X&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Public repo stuff
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=F00L1X&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -28,7 +29,8 @@ Date        | Author          | Action
 * C# (when you absolutely, positively need to write enterprise-grade spaghetti code)
 * ReactJS/TypeScript (because everyone loves debugging asynchronous JavaScript promises, right?)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F00L1X&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Public repo stuff
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F00L1X&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
