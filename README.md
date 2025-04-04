@@ -7,6 +7,7 @@
 Date        | Author          | Action
 ------------|-----------------|-----------------
 2024/11/11  | Felix Schneider  | Genesis Block Created (aka. Profile Creation)
+2025/04/04  | Felix Schneider  | Migrated personality to public view (moved from private to public)
 
 ---
 
